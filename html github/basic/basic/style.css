@@ -1,0 +1,117 @@
+#fondo{
+    background-color:blanchedalmond;
+}
+
+#c1{
+    background-color: yellow;
+    height: 400px;
+    width: 1800px;
+    border-top-width: 5px;
+    border-top-style: solid;
+    border-left-style:solid ;
+    border-left-width: 5px;
+    border-left-color:solid black;
+    border-right-style: solid;
+    border-right-width: 5px;
+    border-right-color: black; 
+    border-top-color: solid black;
+}
+#c2{
+    background-color: blue;
+    height: 200px;
+    width: 1800px;
+    border-right-width: 5px;
+    border-right-style: solid;
+    border-right-color: black;
+    border-left-style: solid;
+    border-left-width: 5px;
+    border-right-color:black ;
+}
+#c3{
+    background-color: red;
+    height: 200px;
+    width: 1800px;
+    border-left-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-width: 5px;
+    border-right-width: 5px;
+    border-bottom-width: 5px;
+    border-left-color: black;
+    border-right-color: black;
+    border-bottom-color: black;
+}
+#ar1{
+    background-color: #53adf1;
+    height: 200px;
+    width: 1800px;
+    border-top-width: 5px;
+    border-top-style: solid;
+    border-left-style:solid ;
+    border-left-width: 5px;
+    border-left-color:solid black;
+    border-right-style: solid;
+    border-right-width: 5px;
+    border-right-color: black; 
+    border-top-color: solid black;
+
+}
+#ar2{
+    background-color: white;
+    height: 200px;
+    width: 1800px;
+    border-right-width: 5px;
+    border-right-style: solid;
+    border-right-color: black;
+    border-left-style: solid;
+    border-left-width: 5px;
+    border-right-color:black ;
+
+}
+#ar3{
+    background-color: #53adf1;
+    height: 200px;
+    width: 1800px;
+    border-left-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-width: 5px;
+    border-right-width: 5px;
+    border-bottom-width: 5px;
+    border-left-color: black;
+    border-right-color: black;
+    border-bottom-color: black;
+}
+.escudo{
+    margin-left:800px;
+}
+.escudo2{
+    margin-left: 800px;
+}
+#jp1{
+    background-color: white;
+    height: 800px;
+    width: 1800px;
+    border-top-width: 5px;
+    border-top-style: solid;
+    border-left-style:solid ;
+    border-left-width: 5px;
+    border-left-color:solid black;
+    border-right-style: solid;
+    border-right-width: 5px;
+    border-right-color: black; 
+    border-top-color: solid black;
+    border-bottom-style: solid;
+    border-bottom-width: 5px;
+    border-bottom-color: black;
+}
+#bola{
+    height:100px;
+    width:100px;
+    background:red;
+    -moz-border-radius:50px;
+    -webkit-border-radius:50px;
+    border-radius:50px;
+    margin-top: 300px;
+    margin-left: 850px;
+}
